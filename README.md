@@ -6,6 +6,7 @@ This repository contains example **scenarios** and **implementations** for **`co
 
 ### List of current examples:
 
+- [Javascript Version](example_javascript/): Boilerplate example app written in JavaScript
 - [Connected React Router](example_connected-react-router/): How to setup the [`connected-react-router`](https://github.com/supasate/connected-react-router).
 
 **Note:** Currently `under development`. More examples will come soon.
